@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Uni/3. Fm/CG/uebung/3/de.bht.fb6.cg1.raytracer.math.jar" sourcepath="C:/Uni/3. Fm/CG/uebung/3/de.bht.fb6.cg1.raytracer.math-src.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Uni/3. Fm/CG/uebung/4/de.bht.fb6.cg1.raytracer.jar" sourcepath="C:/Uni/3. Fm/CG/uebung/4/de.bht.fb6.cg1.raytracer-src.jar"/>
+	<classpathentry kind="lib" path="C:/Uni/3. Fm/CG/uebung/4/de.bht.fb6.cg1.raytracer.util.jar" sourcepath="C:/Uni/3. Fm/CG/uebung/4/de.bht.fb6.cg1.raytracer.util-src.jar"/>
+	<classpathentry kind="lib" path="lib/ij.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
